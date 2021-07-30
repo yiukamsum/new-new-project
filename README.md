@@ -10,3 +10,12 @@ int main() {
     return 0;
 }
 ```
+
+```py
+import tensorflow as tf
+
+model = tf.keras.Sequential([
+    tf.keras.layer.  .  . . . .
+    tf.keras.layer  # not yet done
+])
+```
